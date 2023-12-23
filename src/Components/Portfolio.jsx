@@ -33,8 +33,10 @@ const projectList = [
   {
     title: "My project 🎉",
     description:
-      "Data Science",
-    url: "https://pripatel3008.github.io/INTERNSAVY_TASK_1/",
+      "A password generator is a useful tool that generates strong and random passwords for users. This project aims to create apassword generator application using Python, allowing users tospecify the length and complexity of the password.",
+      
+      
+    url: "https://pripatel3008.github.io/CODSOFT/",
   },
   {
     title: "Medpill - Provide affordable healthcare services",
