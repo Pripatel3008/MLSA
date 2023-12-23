@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My project 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Data Science",
+    url: "https://pripatel3008.github.io/INTERNSAVY_TASK_1/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Medpill - Provide affordable healthcare services",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Problem Statement/Opportunity : Access to health information: Online health websites provide easy access to health information for people who might not have access to this information otherwise. This can include people who live in remote areas or those who have limited access to healthcare resources.",
+    url: "https://pripatel3008.github.io/Future_ready_internship/",
   },
   {
-    title: "My Resume Site",
+    title: "Python Programming",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      " The Simple To-Do List Manager is a Python-based application that allows users to manage their daily tasks and keep track of their to-do list. The application provides a user-friendly command-line interface, enabling users to add, remove, and view tasks easily. The project's main goal is to provide a straightforward and efficient way for users to organize their tasks and improve productivity.",
+    url:"https://pripatel3008.github.io/CODSOFT/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Python",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " The Secure Password Generator is a Python-based application that generates strong and secure random passwords. The password generator aims to assist users in creating robust and unique passwords that are difficult to crack and enhance overall online security. The project provides a command-line interface, allowing users to customize the password length and include various character types in the generated passwords..",
+    url: "https://pripatel3008.github.io/CODSOFT/",
   },
 ];
 
