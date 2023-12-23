@@ -30,9 +30,8 @@ const siteProps = {
   gitHub: "Pripatel3008",
   instagram: "",
   linkedIn: "PriyankaDobariya",
-  medium: "",
-  twitter: "",
-  youTube: "",
+  
+  
 };
 
 const primaryColor = "#4E567E";
