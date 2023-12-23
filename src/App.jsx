@@ -28,8 +28,7 @@ const siteProps = {
   title: "Python Devloper &  PylonSculptor",
   email: "Priyanka.Dobariya@studentambassadors.com",
   gitHub: "Pripatel3008",
-  instagram: "",
-  linkedIn: "PriyankaDobariya",
+  linkedIn: "PPriyanka Dobariya",
   
   
 };
