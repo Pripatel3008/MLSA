@@ -24,8 +24,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a CSE student studying at Atmiya University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "I am deeply passionate about embedded systems and Python
+  programming, with a current role as a student ambassador at
+  Microsoft. My career aspirations are rooted in data science, driven by
+  a series of internships that have sharpened my expertise in data
+  analytics and Python programming. I actively contribute to real-time
+  projects at E-YUVA (BIRAC), and have authored a publication on
+  "Python and its applications in future sustainable technologies," under
+  the guidance of Ashish Kothari. Noteworthy achievements include
+  winning the SU Startup Idea competition for "Automation in
+  Agriculture" and emerging victorious in the SSIP Hackathon'22.
+  "
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
